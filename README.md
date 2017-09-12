@@ -1,0 +1,2 @@
+# startdirection
+brain train
